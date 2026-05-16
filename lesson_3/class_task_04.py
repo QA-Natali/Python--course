@@ -11,6 +11,4 @@ while a>= b:
     a -= b
     c += 1
 print(c)
-print('ghbdtn')
-
 
